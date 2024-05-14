@@ -20,7 +20,7 @@
 *.swp
 
 # Ignore dependencies
-/node_modules/
+node_modules
 /vendor/
 
 # Ignore operating system files
